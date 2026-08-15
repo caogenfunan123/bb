@@ -1,0 +1,4 @@
+# Hugo 配置（hugo.toml 为主，此文件保留以便兼容）
+baseURL = '"https://caogenfunan123.github.io/bb//"'
+title = '我的博客'
+buildFuture = true

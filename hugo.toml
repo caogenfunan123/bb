@@ -1,0 +1,8 @@
+baseURL = '"https://caogenfunan123.github.io/bb//"'
+languageCode = 'zh-cn'
+title = '我的博客'
+theme = 'ananke'
+buildFuture = true
+
+[params]
+  description = ''
